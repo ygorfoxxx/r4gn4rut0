@@ -1,0 +1,26 @@
+[
+  {
+    "grf_path": "data\\luafiles514\\lua files\\navigation\\navi_map_krsak.lub",
+    "source": "D:\\emulador\\navigation-build\\navi_map_krsak.lub",
+    "size": 65485,
+    "sha256": "aef25acbf88a0259462e754d07315f8cbf6dd30891ffdc84942cb1020e6a0272"
+  },
+  {
+    "grf_path": "data\\luafiles514\\lua files\\navigation\\navi_mob_krsak.lub",
+    "source": "D:\\emulador\\navigation-build\\navi_mob_krsak.lub",
+    "size": 250000,
+    "sha256": "ed9a917b60c3b21b94467dc9c1ad6041e53348d4904ef556125edf9df8949373"
+  },
+  {
+    "grf_path": "data\\luafiles514\\lua files\\navigation\\navi_link_krsak.lub",
+    "source": "D:\\emulador\\navigation-build\\navi_link_krsak.lub",
+    "size": 514999,
+    "sha256": "ab585c00284a5f639414d6f2edbf64f0b9d2d9dd470e678c4a2e866be917fdaf"
+  },
+  {
+    "grf_path": "data\\mapnametable.txt",
+    "source": "D:\\emulador\\patch\\data\\mapnametable.txt",
+    "size": 2926,
+    "sha256": "5a63b42901f5ab2d7a5d9d2b2e55327bf4d78285156aeb8a9c55f1090a162ca6"
+  }
+]
