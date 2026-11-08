@@ -1,0 +1,1407 @@
+[
+  {
+    "item": 770,
+    "view": 2765,
+    "accessory": "ACCESSORY_byakugan",
+    "sprite": "_byakugan",
+    "missing": []
+  },
+  {
+    "item": 771,
+    "view": 2766,
+    "accessory": "ACCESSORY_sharingan",
+    "sprite": "_sharingan",
+    "missing": []
+  },
+  {
+    "item": 772,
+    "view": 2767,
+    "accessory": "ACCESSORY_selo_amaldicoado",
+    "sprite": "_selo_amaldicoado",
+    "missing": []
+  },
+  {
+    "item": 773,
+    "view": 2768,
+    "accessory": "ACCESSORY_kaguya",
+    "sprite": "_kaguya",
+    "missing": []
+  },
+  {
+    "item": 774,
+    "view": 2769,
+    "accessory": "ACCESSORY_aburame",
+    "sprite": "_aburame",
+    "missing": []
+  },
+  {
+    "item": 775,
+    "view": 2770,
+    "accessory": "ACCESSORY_nara",
+    "sprite": "_nara",
+    "missing": []
+  },
+  {
+    "item": 776,
+    "view": 2771,
+    "accessory": "ACCESSORY_hyouton",
+    "sprite": "_hyouton",
+    "missing": []
+  },
+  {
+    "item": 777,
+    "view": 2772,
+    "accessory": "ACCESSORY_tayuya",
+    "sprite": "_tayuya",
+    "missing": []
+  },
+  {
+    "item": 778,
+    "view": 2773,
+    "accessory": "ACCESSORY_kidou",
+    "sprite": "_kidou",
+    "missing": []
+  },
+  {
+    "item": 30704,
+    "view": 30704,
+    "accessory": "ACCESSORY_uzumaki",
+    "sprite": "_uzumaki",
+    "missing": []
+  },
+  {
+    "item": 30705,
+    "view": 30705,
+    "accessory": "ACCESSORY_bukijutsu",
+    "sprite": "_bukijutsu",
+    "missing": []
+  },
+  {
+    "item": 30706,
+    "view": 30706,
+    "accessory": "ACCESSORY_Kakuzu",
+    "sprite": "_Kakuzu",
+    "missing": []
+  },
+  {
+    "item": 780,
+    "view": 2775,
+    "accessory": "ACCESSORY_foice_hanzo",
+    "sprite": "_FoiceDoHanzo",
+    "missing": []
+  },
+  {
+    "item": 781,
+    "view": 2776,
+    "accessory": "ACCESSORY_byakugo",
+    "sprite": "_byakugo",
+    "missing": []
+  },
+  {
+    "item": 30003,
+    "view": 2766,
+    "accessory": "ACCESSORY_sharingan",
+    "sprite": "_sharingan",
+    "missing": []
+  },
+  {
+    "item": 30004,
+    "view": 30004,
+    "accessory": "ACCESSORY_susanoo_sasuke",
+    "sprite": "_susanoo_sasuke",
+    "missing": []
+  },
+  {
+    "item": 30005,
+    "view": 30005,
+    "accessory": "ACCESSORY_susanoo_itachi",
+    "sprite": "_susanoo_itachi",
+    "missing": []
+  },
+  {
+    "item": 30006,
+    "view": 30006,
+    "accessory": "ACCESSORY_susanoo_obito",
+    "sprite": "_susanoo_obito",
+    "missing": []
+  },
+  {
+    "item": 30007,
+    "view": 30007,
+    "accessory": "ACCESSORY_susanoo_madara",
+    "sprite": "_susanoo_madara",
+    "missing": []
+  },
+  {
+    "item": 30008,
+    "view": 30008,
+    "accessory": "ACCESSORY_asas_akimichi",
+    "sprite": "_asas_akimichi",
+    "missing": []
+  },
+  {
+    "item": 30009,
+    "view": 30009,
+    "accessory": "ACCESSORY_asas_selo_ceu_ativo",
+    "sprite": "_selo_ceu_ativo",
+    "missing": []
+  },
+  {
+    "item": 30010,
+    "view": 30010,
+    "accessory": "ACCESSORY_AsaSasori",
+    "sprite": "_AsaSasori",
+    "missing": []
+  },
+  {
+    "item": 30011,
+    "view": 30011,
+    "accessory": "ACCESSORY_cabacagaara",
+    "sprite": "_cabacagaara",
+    "missing": []
+  },
+  {
+    "item": 30012,
+    "view": 30012,
+    "accessory": "ACCESSORY_CordasDoJirobo",
+    "sprite": "_CordasDoJirobo",
+    "missing": []
+  },
+  {
+    "item": 30013,
+    "view": 2767,
+    "accessory": "ACCESSORY_selo_amaldicoado",
+    "sprite": "_selo_amaldicoado",
+    "missing": []
+  },
+  {
+    "item": 30014,
+    "view": 30014,
+    "accessory": "ACCESSORY_marcas_kiba",
+    "sprite": "_marcas_kiba",
+    "missing": []
+  },
+  {
+    "item": 30015,
+    "view": 30016,
+    "accessory": "ACCESSORY_kidou_2",
+    "sprite": "_kidou_2",
+    "missing": []
+  },
+  {
+    "item": 30707,
+    "view": 30707,
+    "accessory": "ACCESSORY_5_elementos",
+    "sprite": "_5_elementos",
+    "missing": []
+  },
+  {
+    "item": 30708,
+    "view": 30708,
+    "accessory": "ACCESSORY_jinton",
+    "sprite": "_jinton",
+    "missing": []
+  },
+  {
+    "item": 30709,
+    "view": 2776,
+    "accessory": "ACCESSORY_byakugo",
+    "sprite": "_byakugo",
+    "missing": []
+  },
+  {
+    "item": 30710,
+    "view": 30710,
+    "accessory": "ACCESSORY_Shouton",
+    "sprite": "_Shouton",
+    "missing": []
+  },
+  {
+    "item": 30711,
+    "view": 30711,
+    "accessory": "ACCESSORY_shakuton",
+    "sprite": "_shakuton",
+    "missing": []
+  },
+  {
+    "item": 30712,
+    "view": 30712,
+    "accessory": "ACCESSORY_Mokuton",
+    "sprite": "_Mokuton",
+    "missing": []
+  },
+  {
+    "item": 30713,
+    "view": 30713,
+    "accessory": "ACCESSORY_yamanaka",
+    "sprite": "_yamanaka",
+    "missing": []
+  },
+  {
+    "item": 30050,
+    "view": 30050,
+    "accessory": "ACCESSORY_bandana_gm",
+    "sprite": "_bandana_gm",
+    "missing": []
+  },
+  {
+    "item": 30051,
+    "view": 30051,
+    "accessory": "ACCESSORY_bandana_konoha_normal",
+    "sprite": "_bandana_konoha_normal",
+    "missing": []
+  },
+  {
+    "item": 30053,
+    "view": 30053,
+    "accessory": "ACCESSORY_bandana_konoha_pescoco",
+    "sprite": "_bandana_konoha_pescoco",
+    "missing": []
+  },
+  {
+    "item": 30052,
+    "view": 30052,
+    "accessory": "ACCESSORY_bandana_konoha_lado",
+    "sprite": "_bandana_konoha_lado",
+    "missing": []
+  },
+  {
+    "item": 30054,
+    "view": 30054,
+    "accessory": "ACCESSORY_bandana_konoha_yamato",
+    "sprite": "_bandana_konoha_yamato",
+    "missing": []
+  },
+  {
+    "item": 30055,
+    "view": 30055,
+    "accessory": "ACCESSORY_bandana_konoha_kisame",
+    "sprite": "_bandana_konoha_kisame",
+    "missing": []
+  },
+  {
+    "item": 30056,
+    "view": 30056,
+    "accessory": "ACCESSORY_bandana_konoha_kakashi",
+    "sprite": "_bandana_konoha_kakashi",
+    "missing": []
+  },
+  {
+    "item": 30057,
+    "view": 30057,
+    "accessory": "ACCESSORY_bandana_suna_normal",
+    "sprite": "_bandana_suna_normal",
+    "missing": []
+  },
+  {
+    "item": 30058,
+    "view": 30058,
+    "accessory": "ACCESSORY_bandana_suna_lado",
+    "sprite": "_bandana_suna_lado",
+    "missing": []
+  },
+  {
+    "item": 30059,
+    "view": 30059,
+    "accessory": "ACCESSORY_bandana_suna_pescoco",
+    "sprite": "_bandana_suna_pescoco",
+    "missing": []
+  },
+  {
+    "item": 30060,
+    "view": 30060,
+    "accessory": "ACCESSORY_bandana_suna_yamato",
+    "sprite": "_bandana_suna_yamato",
+    "missing": []
+  },
+  {
+    "item": 30061,
+    "view": 30061,
+    "accessory": "ACCESSORY_bandana_suna_kisame",
+    "sprite": "_bandana_suna_kisame",
+    "missing": []
+  },
+  {
+    "item": 30062,
+    "view": 30062,
+    "accessory": "ACCESSORY_bandana_suna_kakashi",
+    "sprite": "_bandana_suna_kakashi",
+    "missing": []
+  },
+  {
+    "item": 30063,
+    "view": 30063,
+    "accessory": "ACCESSORY_bandana_nevoa_normal",
+    "sprite": "_bandana_nevoa_normal",
+    "missing": []
+  },
+  {
+    "item": 30064,
+    "view": 30064,
+    "accessory": "ACCESSORY_bandana_nevoa_lado",
+    "sprite": "_bandana_nevoa_lado",
+    "missing": []
+  },
+  {
+    "item": 30065,
+    "view": 30065,
+    "accessory": "ACCESSORY_bandana_nevoa_pescoco",
+    "sprite": "_bandana_nevoa_pescoco",
+    "missing": []
+  },
+  {
+    "item": 30066,
+    "view": 30066,
+    "accessory": "ACCESSORY_bandana_nevoa_yamato",
+    "sprite": "_bandana_nevoa_yamato",
+    "missing": []
+  },
+  {
+    "item": 30067,
+    "view": 30067,
+    "accessory": "ACCESSORY_bandana_nevoa_kisame",
+    "sprite": "_bandana_nevoa_kisame",
+    "missing": []
+  },
+  {
+    "item": 30068,
+    "view": 30068,
+    "accessory": "ACCESSORY_bandana_nevoa_kakashi",
+    "sprite": "_bandana_nevoa_kakashi",
+    "missing": []
+  },
+  {
+    "item": 30069,
+    "view": 30069,
+    "accessory": "ACCESSORY_bandana_nuvem_normal",
+    "sprite": "_bandana_nuvem_normal",
+    "missing": []
+  },
+  {
+    "item": 30070,
+    "view": 30070,
+    "accessory": "ACCESSORY_bandana_nuvem_lado",
+    "sprite": "_bandana_nuvem_lado",
+    "missing": []
+  },
+  {
+    "item": 30071,
+    "view": 30071,
+    "accessory": "ACCESSORY_bandana_nuvem_pescoco",
+    "sprite": "_bandana_nuvem_pescoco",
+    "missing": []
+  },
+  {
+    "item": 30072,
+    "view": 30072,
+    "accessory": "ACCESSORY_bandana_nuvem_yamato",
+    "sprite": "_bandana_nuvem_yamato",
+    "missing": []
+  },
+  {
+    "item": 30073,
+    "view": 30073,
+    "accessory": "ACCESSORY_bandana_nuvem_kisame",
+    "sprite": "_bandana_nuvem_kisame",
+    "missing": []
+  },
+  {
+    "item": 30074,
+    "view": 30074,
+    "accessory": "ACCESSORY_bandana_nuvem_kakashi",
+    "sprite": "_bandana_nuvem_kakashi",
+    "missing": []
+  },
+  {
+    "item": 30075,
+    "view": 30075,
+    "accessory": "ACCESSORY_bandana_nukenin_konoha",
+    "sprite": "_bandana_nukenin_konoha",
+    "missing": []
+  },
+  {
+    "item": 30076,
+    "view": 30076,
+    "accessory": "ACCESSORY_bandana_nukenin_nevoa",
+    "sprite": "_bandana_nukenin_nevoa",
+    "missing": []
+  },
+  {
+    "item": 30077,
+    "view": 30077,
+    "accessory": "ACCESSORY_bandana_nukenin_suna",
+    "sprite": "_bandana_nukenin_suna",
+    "missing": []
+  },
+  {
+    "item": 30078,
+    "view": 30078,
+    "accessory": "ACCESSORY_bandana_nukenin_nuvem",
+    "sprite": "_bandana_nukenin_nuvem",
+    "missing": []
+  },
+  {
+    "item": 30079,
+    "view": 30079,
+    "accessory": "ACCESSORY_bandana_ebisu",
+    "sprite": "_bandana_ebisu",
+    "missing": []
+  },
+  {
+    "item": 30080,
+    "view": 30080,
+    "accessory": "ACCESSORY_bandana_hidan",
+    "sprite": "_bandana_hidan",
+    "missing": []
+  },
+  {
+    "item": 30081,
+    "view": 30081,
+    "accessory": "ACCESSORY_bandana_jiraya",
+    "sprite": "_bandana_jiraya",
+    "missing": []
+  },
+  {
+    "item": 30082,
+    "view": 30082,
+    "accessory": "ACCESSORY_bandana_kakuzu",
+    "sprite": "_bandana_kakuzu",
+    "missing": []
+  },
+  {
+    "item": 30083,
+    "view": 30083,
+    "accessory": "ACCESSORY_bandana_ninjasmoke",
+    "sprite": "_bandana_ninjasmoke",
+    "missing": []
+  },
+  {
+    "item": 30084,
+    "view": 30084,
+    "accessory": "ACCESSORY_bandana_ninjasnow",
+    "sprite": "_bandana_ninjasnow",
+    "missing": []
+  },
+  {
+    "item": 30085,
+    "view": 30085,
+    "accessory": "ACCESSORY_bandana_ninjastar",
+    "sprite": "_bandana_ninjastar",
+    "missing": []
+  },
+  {
+    "item": 30086,
+    "view": 30086,
+    "accessory": "ACCESSORY_bandana_sarutobi",
+    "sprite": "_bandana_sarutobi",
+    "missing": []
+  },
+  {
+    "item": 30227,
+    "view": 30227,
+    "accessory": "ACCESSORY_hokage",
+    "sprite": "_hokage",
+    "missing": []
+  },
+  {
+    "item": 30228,
+    "view": 30228,
+    "accessory": "ACCESSORY_kazekage",
+    "sprite": "_kazekage",
+    "missing": []
+  },
+  {
+    "item": 30229,
+    "view": 30229,
+    "accessory": "ACCESSORY_mizukage",
+    "sprite": "_mizukage",
+    "missing": []
+  },
+  {
+    "item": 30230,
+    "view": 30230,
+    "accessory": "ACCESSORY_raikage",
+    "sprite": "_raikage",
+    "missing": []
+  },
+  {
+    "item": 30231,
+    "view": 30231,
+    "accessory": "ACCESSORY_anbu_capuz",
+    "sprite": "_anbu_capuz",
+    "missing": []
+  },
+  {
+    "item": 30232,
+    "view": 30232,
+    "accessory": "ACCESSORY_anbu1",
+    "sprite": "_anbu1",
+    "missing": []
+  },
+  {
+    "item": 30233,
+    "view": 30233,
+    "accessory": "ACCESSORY_anbu2",
+    "sprite": "_anbu2",
+    "missing": []
+  },
+  {
+    "item": 30234,
+    "view": 30234,
+    "accessory": "ACCESSORY_anbu3",
+    "sprite": "_anbu3",
+    "missing": []
+  },
+  {
+    "item": 30235,
+    "view": 30235,
+    "accessory": "ACCESSORY_anbu4",
+    "sprite": "_anbu4",
+    "missing": []
+  },
+  {
+    "item": 30236,
+    "view": 30236,
+    "accessory": "ACCESSORY_anbu5",
+    "sprite": "_anbu5",
+    "missing": []
+  },
+  {
+    "item": 30237,
+    "view": 30237,
+    "accessory": "ACCESSORY_anbu6",
+    "sprite": "_anbu6",
+    "missing": []
+  },
+  {
+    "item": 30238,
+    "view": 30238,
+    "accessory": "ACCESSORY_anbu7",
+    "sprite": "_anbu7",
+    "missing": []
+  },
+  {
+    "item": 30239,
+    "view": 30239,
+    "accessory": "ACCESSORY_akatsuki_hat",
+    "sprite": "_akatsuki_hat",
+    "missing": []
+  },
+  {
+    "item": 30240,
+    "view": 30240,
+    "accessory": "ACCESSORY_akatsuki_hat2",
+    "sprite": "_akatsuki_hat2",
+    "missing": []
+  },
+  {
+    "item": 30241,
+    "view": 30241,
+    "accessory": "ACCESSORY_akatsuki_hat3",
+    "sprite": "_akatsuki_hat3",
+    "missing": []
+  },
+  {
+    "item": 30242,
+    "view": 30242,
+    "accessory": "ACCESSORY_akatsuki_hat4",
+    "sprite": "_akatsuki_hat4",
+    "missing": []
+  },
+  {
+    "item": 30243,
+    "view": 30243,
+    "accessory": "ACCESSORY_jinchuriki",
+    "sprite": "_jinchuriki",
+    "missing": []
+  },
+  {
+    "item": 30244,
+    "view": 30244,
+    "accessory": "ACCESSORY_jinchuriki_hachibi",
+    "sprite": "_jinchuriki_hachibi",
+    "missing": []
+  },
+  {
+    "item": 30714,
+    "view": 30714,
+    "accessory": "ACCESSORY_nibi",
+    "sprite": "_nibi",
+    "missing": []
+  },
+  {
+    "item": 30245,
+    "view": 30245,
+    "accessory": "ACCESSORY_bigode_grisalho",
+    "sprite": "_bigode_grisalho",
+    "missing": []
+  },
+  {
+    "item": 30246,
+    "view": 30246,
+    "accessory": "ACCESSORY_capacete_cranio",
+    "sprite": "_capacete_cranio",
+    "missing": []
+  },
+  {
+    "item": 30247,
+    "view": 30247,
+    "accessory": "ACCESSORY_capuz_escuridao",
+    "sprite": "_capuz_escuridao",
+    "missing": []
+  },
+  {
+    "item": 30248,
+    "view": 30248,
+    "accessory": "ACCESSORY_capuz_necromante",
+    "sprite": "_capuz_necromante",
+    "missing": []
+  },
+  {
+    "item": 30249,
+    "view": 30249,
+    "accessory": "ACCESSORY_chapeu_polvo",
+    "sprite": "_chapeu_polvo",
+    "missing": []
+  },
+  {
+    "item": 30250,
+    "view": 30250,
+    "accessory": "ACCESSORY_chapeu_ursinho",
+    "sprite": "_chapeu_ursinho",
+    "missing": []
+  },
+  {
+    "item": 30251,
+    "view": 30251,
+    "accessory": "ACCESSORY_chifres_baphomet",
+    "sprite": "_chifres_baphomet",
+    "missing": []
+  },
+  {
+    "item": 30252,
+    "view": 30252,
+    "accessory": "ACCESSORY_elmo_lobo",
+    "sprite": "_elmo_lobo",
+    "missing": []
+  },
+  {
+    "item": 30253,
+    "view": 30253,
+    "accessory": "ACCESSORY_mascara_tigre",
+    "sprite": "_mascara_tigre",
+    "missing": []
+  },
+  {
+    "item": 30254,
+    "view": 30254,
+    "accessory": "ACCESSORY_mascara_esquisita",
+    "sprite": "_mascara_esquisita",
+    "missing": []
+  },
+  {
+    "item": 30255,
+    "view": 30255,
+    "accessory": "ACCESSORY_peca_dourada",
+    "sprite": "_peca_dourada",
+    "missing": []
+  },
+  {
+    "item": 30256,
+    "view": 30256,
+    "accessory": "ACCESSORY_presilha_catavento",
+    "sprite": "_presilha_catavento",
+    "missing": []
+  },
+  {
+    "item": 30257,
+    "view": 30257,
+    "accessory": "ACCESSORY_boina_rosa",
+    "sprite": "_boina_rosa",
+    "missing": []
+  },
+  {
+    "item": 30258,
+    "view": 30258,
+    "accessory": "ACCESSORY_cartola_susurrante",
+    "sprite": "_cartola_susurrante",
+    "missing": []
+  },
+  {
+    "item": 30259,
+    "view": 30259,
+    "accessory": "ACCESSORY_caveira_de_dragao",
+    "sprite": "_caveira_de_dragao",
+    "missing": []
+  },
+  {
+    "item": 30260,
+    "view": 30260,
+    "accessory": "ACCESSORY_chapeu_chines",
+    "sprite": "_chapeu_chines",
+    "missing": []
+  },
+  {
+    "item": 30261,
+    "view": 30261,
+    "accessory": "ACCESSORY_chapeu_caca",
+    "sprite": "_chapeu_caca",
+    "missing": []
+  },
+  {
+    "item": 30262,
+    "view": 30262,
+    "accessory": "ACCESSORY_gatinho_tagarela",
+    "sprite": "_gatinho_tagarela",
+    "missing": []
+  },
+  {
+    "item": 30263,
+    "view": 30263,
+    "accessory": "ACCESSORY_c_black_cat",
+    "sprite": "_c_black_cat",
+    "missing": []
+  },
+  {
+    "item": 30264,
+    "view": 30264,
+    "accessory": "ACCESSORY_goma_mascar",
+    "sprite": "_goma_mascar",
+    "missing": []
+  },
+  {
+    "item": 30265,
+    "view": 30265,
+    "accessory": "ACCESSORY_mascara_fugitivo",
+    "sprite": "_mascara_fugitivo",
+    "missing": []
+  },
+  {
+    "item": 30266,
+    "view": 30266,
+    "accessory": "ACCESSORY_mascara_kabuki",
+    "sprite": "_mascara_kabuki",
+    "missing": []
+  },
+  {
+    "item": 30267,
+    "view": 30267,
+    "accessory": "ACCESSORY_mascara_kitsune",
+    "sprite": "_mascara_kitsune",
+    "missing": []
+  },
+  {
+    "item": 30268,
+    "view": 30268,
+    "accessory": "ACCESSORY_oculos_machao",
+    "sprite": "_oculos_machao",
+    "missing": []
+  },
+  {
+    "item": 30269,
+    "view": 30269,
+    "accessory": "ACCESSORY_ordem_protetor",
+    "sprite": "_ordem_protetor",
+    "missing": []
+  },
+  {
+    "item": 30270,
+    "view": 30270,
+    "accessory": "ACCESSORY_orelhas_ifrit",
+    "sprite": "_orelhas_ifrit",
+    "missing": []
+  },
+  {
+    "item": 30271,
+    "view": 30271,
+    "accessory": "ACCESSORY_sopro_ifrit",
+    "sprite": "_sopro_ifrit",
+    "missing": []
+  },
+  {
+    "item": 30272,
+    "view": 30272,
+    "accessory": "ACCESSORY_vampire_familiar",
+    "sprite": "_vampire_familiar",
+    "missing": []
+  },
+  {
+    "item": 31062,
+    "view": 1502,
+    "accessory": "ACCESSORY_Eleanor_Wig",
+    "sprite": "_엘레노아가발",
+    "missing": []
+  },
+  {
+    "item": 20405,
+    "view": 1416,
+    "accessory": "ACCESSORY_Eremes_Scarf",
+    "sprite": "_에레메스스카프",
+    "missing": []
+  },
+  {
+    "item": 20409,
+    "view": 1091,
+    "accessory": "ACCESSORY_THERE_IS_SOMETHING",
+    "sprite": "_뭔가있어",
+    "missing": []
+  },
+  {
+    "item": 20430,
+    "view": 1440,
+    "accessory": "ACCESSORY_Morocc_Kid_Servant",
+    "sprite": "_소년모로크수하",
+    "missing": []
+  },
+  {
+    "item": 20434,
+    "view": 1444,
+    "accessory": "ACCESSORY_Droop_Gunslinger",
+    "sprite": "_늘어진건슬링거",
+    "missing": []
+  },
+  {
+    "item": 30840,
+    "view": 30840,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30841,
+    "view": 30844,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30845,
+    "view": 30843,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30842,
+    "view": 30850,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30850,
+    "view": 30906,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30851,
+    "view": 30856,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30852,
+    "view": 30874,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30853,
+    "view": 30907,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30854,
+    "view": 30852,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30855,
+    "view": 30853,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30856,
+    "view": 30854,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30857,
+    "view": 30857,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30860,
+    "view": 30858,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30877,
+    "view": 30888,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30859,
+    "view": 30897,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30861,
+    "view": 30895,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30862,
+    "view": 30859,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30863,
+    "view": 30891,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30864,
+    "view": 30887,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30865,
+    "view": 30890,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30869,
+    "view": 30865,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30874,
+    "view": 30883,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30876,
+    "view": 30849,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30878,
+    "view": 30848,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30879,
+    "view": 30847,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30880,
+    "view": 30855,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30881,
+    "view": 30899,
+    "accessory": null,
+    "sprite": null,
+    "missing": [
+      "accessory mapping"
+    ]
+  },
+  {
+    "item": 30273,
+    "view": 30273,
+    "accessory": "ACCESSORY_bastao_yagura",
+    "sprite": "_BastaoDoYagura",
+    "missing": []
+  },
+  {
+    "item": 30274,
+    "view": 30274,
+    "accessory": "ACCESSORY_hat_han",
+    "sprite": "_ChapeuzinDoHan",
+    "missing": []
+  },
+  {
+    "item": 30275,
+    "view": 2775,
+    "accessory": "ACCESSORY_foice_hanzo",
+    "sprite": "_FoiceDoHanzo",
+    "missing": []
+  },
+  {
+    "item": 30276,
+    "view": 30276,
+    "accessory": "ACCESSORY_kuraminha",
+    "sprite": "_Kuraminha",
+    "missing": []
+  },
+  {
+    "item": 30277,
+    "view": 30277,
+    "accessory": "ACCESSORY_akamaru_red",
+    "sprite": "_akamarured",
+    "missing": []
+  },
+  {
+    "item": 30278,
+    "view": 30278,
+    "accessory": "ACCESSORY_akamaru",
+    "sprite": "_akamaru",
+    "missing": []
+  },
+  {
+    "item": 30279,
+    "view": 30279,
+    "accessory": "ACCESSORY_esferas_hagoromo",
+    "sprite": "_hagoromo",
+    "missing": []
+  },
+  {
+    "item": 30280,
+    "view": 30280,
+    "accessory": "ACCESSORY_mascara_danzo",
+    "sprite": "_danzo",
+    "missing": []
+  },
+  {
+    "item": 30281,
+    "view": 30281,
+    "accessory": "ACCESSORY_mascara_kakashi",
+    "sprite": "_mascara_kakashi",
+    "missing": []
+  },
+  {
+    "item": 30282,
+    "view": 30282,
+    "accessory": "ACCESSORY_mascara_tobi",
+    "sprite": "_mascara_tobi",
+    "missing": []
+  },
+  {
+    "item": 30283,
+    "view": 30283,
+    "accessory": "ACCESSORY_item_tobi",
+    "sprite": "_item_tobi",
+    "missing": []
+  },
+  {
+    "item": 30284,
+    "view": 30284,
+    "accessory": "ACCESSORY_mascara_tobi2",
+    "sprite": "_mascara_tobi2",
+    "missing": []
+  },
+  {
+    "item": 30285,
+    "view": 30285,
+    "accessory": "ACCESSORY_mascara_zabuza",
+    "sprite": "_mascara_zabuza",
+    "missing": []
+  },
+  {
+    "item": 30286,
+    "view": 30286,
+    "accessory": "ACCESSORY_mascara_zetsu",
+    "sprite": "_mascara_zetsu",
+    "missing": []
+  },
+  {
+    "item": 30287,
+    "view": 30287,
+    "accessory": "ACCESSORY_vaso_shiki",
+    "sprite": "_vaso",
+    "missing": []
+  },
+  {
+    "item": 30288,
+    "view": 30288,
+    "accessory": "ACCESSORY_oculos_obito",
+    "sprite": "_oculos_obito",
+    "missing": []
+  },
+  {
+    "item": 30289,
+    "view": 30289,
+    "accessory": "ACCESSORY_percing",
+    "sprite": "_percing",
+    "missing": []
+  },
+  {
+    "item": 30290,
+    "view": 30290,
+    "accessory": "ACCESSORY_protecao_zetsu",
+    "sprite": "_protecao_zetsu",
+    "missing": []
+  },
+  {
+    "item": 30291,
+    "view": 30291,
+    "accessory": "ACCESSORY_hat_raposinha",
+    "sprite": "_hat_raposinha",
+    "missing": []
+  },
+  {
+    "item": 30292,
+    "view": 30292,
+    "accessory": "ACCESSORY_hat_phone",
+    "sprite": "_hat_phone",
+    "missing": []
+  },
+  {
+    "item": 30294,
+    "view": 30295,
+    "accessory": "ACCESSORY_espada_sasuke",
+    "sprite": "_espada_sasuke_v2",
+    "missing": []
+  },
+  {
+    "item": 30295,
+    "view": 30296,
+    "accessory": "ACCESSORY_BabyShukaku",
+    "sprite": "_BabyShukaku",
+    "missing": []
+  },
+  {
+    "item": 30297,
+    "view": 30297,
+    "accessory": "ACCESSORY_elite6",
+    "sprite": "_elite6",
+    "missing": []
+  },
+  {
+    "item": 30298,
+    "view": 30298,
+    "accessory": "ACCESSORY_chopper",
+    "sprite": "_chopper",
+    "missing": []
+  },
+  {
+    "item": 30299,
+    "view": 30299,
+    "accessory": "ACCESSORY_Bashousen",
+    "sprite": "_Bashousen",
+    "missing": []
+  },
+  {
+    "item": 30300,
+    "view": 30300,
+    "accessory": "ACCESSORY_LequeTemari",
+    "sprite": "_LequeTemari",
+    "missing": []
+  },
+  {
+    "item": 30301,
+    "view": 30301,
+    "accessory": "ACCESSORY_ShurikenGigante",
+    "sprite": "_ShurikenGigante",
+    "missing": []
+  },
+  {
+    "item": 30302,
+    "view": 30302,
+    "accessory": "ACCESSORY_ViolaoMadara",
+    "sprite": "_ViolaoMadara",
+    "missing": []
+  },
+  {
+    "item": 30303,
+    "view": 30303,
+    "accessory": "ACCESSORY_super_sayajin",
+    "sprite": "_super_sayajin",
+    "missing": []
+  },
+  {
+    "item": 30304,
+    "view": 30304,
+    "accessory": "ACCESSORY_luffy_hat",
+    "sprite": "_luffy_hat",
+    "missing": []
+  },
+  {
+    "item": 30305,
+    "view": 30305,
+    "accessory": "ACCESSORY_chapeubaiano",
+    "sprite": "_chapeubaiano",
+    "missing": []
+  },
+  {
+    "item": 30306,
+    "view": 30306,
+    "accessory": "ACCESSORY_Bast_Sandaime_Nas_Costas",
+    "sprite": "_Bast_Sandaime_Nas_Costas",
+    "missing": []
+  },
+  {
+    "item": 30307,
+    "view": 30307,
+    "accessory": "ACCESSORY_chapeudepalha",
+    "sprite": "_chapeudepalha",
+    "missing": []
+  },
+  {
+    "item": 30308,
+    "view": 30308,
+    "accessory": "ACCESSORY_gorilao",
+    "sprite": "_gorilao",
+    "missing": []
+  },
+  {
+    "item": 30309,
+    "view": 30309,
+    "accessory": "ACCESSORY_frangao",
+    "sprite": "_frangao",
+    "missing": []
+  },
+  {
+    "item": 30700,
+    "view": 30700,
+    "accessory": "ACCESSORY_bonebandido",
+    "sprite": "_bonebandido",
+    "missing": []
+  },
+  {
+    "item": 30701,
+    "view": 30701,
+    "accessory": "ACCESSORY_chapeudobaiano",
+    "sprite": "_chapeudobaiano",
+    "missing": []
+  },
+  {
+    "item": 30459,
+    "view": 30459,
+    "accessory": "ACCESSORY_kibaku",
+    "sprite": "_kibaku",
+    "missing": []
+  },
+  {
+    "item": 30460,
+    "view": 30460,
+    "accessory": "ACCESSORY_portoes",
+    "sprite": "_portoes",
+    "missing": []
+  },
+  {
+    "item": 30461,
+    "view": 30461,
+    "accessory": "ACCESSORY_edo",
+    "sprite": "_marcas_kiba",
+    "missing": []
+  },
+  {
+    "item": 30462,
+    "view": 30462,
+    "accessory": "ACCESSORY_kugutsu",
+    "sprite": "_kugutsu",
+    "missing": []
+  },
+  {
+    "item": 30463,
+    "view": 30463,
+    "accessory": "ACCESSORY_jashin",
+    "sprite": "_jashin",
+    "missing": []
+  },
+  {
+    "item": 30820,
+    "view": 30820,
+    "accessory": "ACCESSORY_8portao",
+    "sprite": "_8portao",
+    "missing": []
+  }
+]
